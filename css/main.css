@@ -1,9 +1,6 @@
 body {
 	background-color: #000000;
 }
-* {
-	outline: red 1px solid;
-}
 .main {
 	background-color: #FFFFFF;
 	margin-top: 110px;
